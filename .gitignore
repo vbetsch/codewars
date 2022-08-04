@@ -1,0 +1,17 @@
+# IDE folder settings
+.idea
+
+# pytest
+.pytest_cache
+
+# coverage
+.coverage
+coverage
+*.xml
+
+# python env
+venv
+__pycache__
+
+# tests
+_.py
